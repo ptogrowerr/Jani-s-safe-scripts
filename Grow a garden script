@@ -1,0 +1,4 @@
+pet spawner visual but can be placed
+local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
+more to come soon
